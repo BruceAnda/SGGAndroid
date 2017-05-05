@@ -1,3 +1,45 @@
 <resources>
     <string name="app_name">AndroidSGG</string>
+
+    <!-- 主界面列表 -->
+    <array name="Main">
+        <item>Android核心技术</item>
+        <item>Android高级开发</item>
+        <item>Android项目实战</item>
+        <item>Android前沿技术</item>
+    </array>
+
+    <!-- Android核心技术 -->
+    <array name="Core">
+        <item>01_Android快速入门</item>
+        <item>02_四大应用组件之Activity</item>
+        <item>03_用户界面（上）</item>
+        <item>03_用户界面（下）</item>
+        <item>04_数据存储（上）</item>
+        <item>04_数据存储（中）</item>
+        <item>04_数据存储（下）</item>
+        <item>05_消息机制与异步任务</item>
+        <item>06_事件机制</item>
+        <item>07_四大应用组件之Service</item>
+        <item>08_四大应用组件之BroadcastReceiver</item>
+        <item>08_四大应用组件之BroadcastReceiver</item>
+        <item>10_动画</item>
+        <item>11_图像处理</item>
+        <item>12_碎片</item>
+    </array>
+
+    <!-- Android高级开发 -->
+    <array name="Senior">
+
+    </array>
+
+    <!-- Android项目实战 -->
+    <array name="Proj">
+
+    </array>
+
+    <!-- Android前沿技术 -->
+    <array name="Preface">
+
+    </array>
 </resources>

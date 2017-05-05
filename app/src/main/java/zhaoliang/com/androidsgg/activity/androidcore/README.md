@@ -14,7 +14,7 @@
 | 06_事件机制 | [详细内容](https://github.com/BruceAnda/SGGAndroid/tree/master/app/src/main/java/zhaoliang/com/androidsgg/activity/androidcore/day09) |
 | 07_四大应用组件之Service | [详细内容](https://github.com/BruceAnda/SGGAndroid/tree/master/app/src/main/java/zhaoliang/com/androidsgg/activity/androidcore/day10) |
 | 08_四大应用组件之BroadcastReceiver | [详细内容](https://github.com/BruceAnda/SGGAndroid/tree/master/app/src/main/java/zhaoliang/com/androidsgg/activity/androidcore/day11) |
-| 09_四大应用组件之ContentProvid | [详细内容](https://github.com/BruceAnda/SGGAndroid/tree/master/app/src/main/java/zhaoliang/com/androidsgg/activity/androidcore/day12) |
+| 08_四大应用组件之BroadcastReceiver | [详细内容](https://github.com/BruceAnda/SGGAndroid/tree/master/app/src/main/java/zhaoliang/com/androidsgg/activity/androidcore/day12) |
 | 10_动画 | [详细内容](https://github.com/BruceAnda/SGGAndroid/tree/master/app/src/main/java/zhaoliang/com/androidsgg/activity/androidcore/day13) |
 | 11_图像处理 | [详细内容](https://github.com/BruceAnda/SGGAndroid/tree/master/app/src/main/java/zhaoliang/com/androidsgg/activity/androidcore/day14) |
 | 12_碎片 | [详细内容](https://github.com/BruceAnda/SGGAndroid/tree/master/app/src/main/java/zhaoliang/com/androidsgg/activity/androidcore/day15) |
